@@ -1,4 +1,4 @@
-package Hello;
+package hello;
 
 import java.util.logging.Logger;
 
